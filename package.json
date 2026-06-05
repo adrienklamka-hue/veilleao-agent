@@ -1,0 +1,18 @@
+{
+  "name": "veilleao-agent",
+  "version": "2.0.0",
+  "description": "Agent de veille sur les appels d'offres — services financiers et paiements (public + privé)",
+  "type": "module",
+  "scripts": {
+    "test": "node veilleao-agent.js --test",
+    "start": "node veilleao-agent.js --live",
+    "dev": "node --watch veilleao-agent.js --test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
