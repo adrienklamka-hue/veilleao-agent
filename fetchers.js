@@ -191,10 +191,12 @@ const GOOGLE_ALERTS_FEEDS = [
   //   "appel d'offres" "PSP" OR "paiement en ligne" retail
   //
   // Exemples (URLs fictives — à remplacer) :
-  "https://www.google.com/alerts/feeds/VOTRE_USER_ID/ALERT_ID_CASHMANAGEMENT",
-  "https://www.google.com/alerts/feeds/VOTRE_USER_ID/ALERT_ID_MONETIQUE",
-  "https://www.google.com/alerts/feeds/VOTRE_USER_ID/ALERT_ID_EBICS",
-  "https://www.google.com/alerts/feeds/VOTRE_USER_ID/ALERT_ID_AFFACTURAGE",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/3735591257978106935",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/17360108422094138142",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/13977973950514429583",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/17360108422094137602",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/17060450013791072884",
+  "https://www.google.fr/alerts/feeds/15119958056544512421/6268812609561442305",
 ];
 
 /**
